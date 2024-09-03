@@ -1,0 +1,14 @@
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\bin\Debug\net8.0\csharp-oppgaver-1.exe
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\bin\Debug\net8.0\csharp-oppgaver-1.deps.json
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\bin\Debug\net8.0\csharp-oppgaver-1.runtimeconfig.json
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\bin\Debug\net8.0\csharp-oppgaver-1.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\bin\Debug\net8.0\csharp-oppgaver-1.pdb
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\obj\Debug\net8.0\csharp-oppgaver-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\obj\Debug\net8.0\csharp-oppgaver-1.AssemblyInfoInputs.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\obj\Debug\net8.0\csharp-oppgaver-1.AssemblyInfo.cs
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\obj\Debug\net8.0\csharp-oppgaver-1.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\obj\Debug\net8.0\csharp-oppgaver-1.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\obj\Debug\net8.0\refint\csharp-oppgaver-1.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\obj\Debug\net8.0\csharp-oppgaver-1.pdb
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\obj\Debug\net8.0\csharp-oppgaver-1.genruntimeconfig.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\csharp-oppgaver-1\obj\Debug\net8.0\ref\csharp-oppgaver-1.dll
