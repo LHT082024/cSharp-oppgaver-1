@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-oppgaver-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f974ae849de4339d62e7735d9a74e96f8f1babc")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-oppgaver-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-oppgaver-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

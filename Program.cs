@@ -33,9 +33,9 @@ class Program
         //en for loop hvor eg tar int gir index (i) verdien 0 sier at så lenge index har en lavere
         //verdi en arry lenght så looper den. ++i gjør at for hver loop så øker verdien til i
         //og den stoopper å loope innen 4 fordi hvis den blir mer en 4 så blir i større
-        //array.name og stopper loopen
+        //arrayName og stopper loopen
         for (int i = 0; i < arrayName.Length; ++i){
-            //skriver ut arrayName helt til i stopper den
+            //skriver ut arrayName helt til i er større en arrayName.lenght stopper den
             Console.WriteLine(arrayName[i]);
         }
 
