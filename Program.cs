@@ -30,10 +30,10 @@ class Program
 
         //lager en int arry med navnet arrayName og gir den verdiene 1,2,3,4
         int [] arrayName = {1, 2, 3, 4};
-        //en for loop hvor eg tar int gir index verdien 0 sier at så lenge index har en lavere
-        //verdi til I er lavere en arry lenght. ++i gjør at for hver loop så øker verdien til i
+        //en for loop hvor eg tar int gir index (i) verdien 0 sier at så lenge index har en lavere
+        //verdi en arry lenght så looper den. ++i gjør at for hver loop så øker verdien til i
         //og den stoopper å loope innen 4 fordi hvis den blir mer en 4 så blir i større
-        //array.name
+        //array.name og stopper loopen
         for (int i = 0; i < arrayName.Length; ++i){
             //skriver ut arrayName helt til i stopper den
             Console.WriteLine(arrayName[i]);
