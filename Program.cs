@@ -63,6 +63,8 @@ class Program
             //skriver ut string elemente lagt til i list.
             Console.WriteLine(names);
         }
+
+        //Oppgave 3
            Dictionary<int, string> myDictonary = new Dictionary<int, string>();
                 myDictonary.Add(1, "Azathoth"); 
                 myDictonary.Add(2, "Nyarlathotep");
@@ -77,9 +79,6 @@ class Program
    
     }
 
-
-            //oppgave 3 
-
             static public int IntMethode(int a, int b){
                 return a + b;
             }
@@ -92,7 +91,6 @@ class Program
 
 
  }
-
 
 
 
