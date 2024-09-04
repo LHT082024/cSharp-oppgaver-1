@@ -73,7 +73,7 @@ class Program
                 Console.WriteLine($"Key: {elderGods.Key}, Value: {elderGods.Value}"); 
 
                 Console.WriteLine(IntMethode(5, 7));
-                Console.WriteLine(StringMethod()); 
+                Console.WriteLine(StringMethod() + " user"); 
    
     }
 
@@ -85,7 +85,7 @@ class Program
             }
 
             static public string StringMethod (){ 
-                string Lol = "hello"; 
+                string Lol = "Good morning, afternoon, evening and night"; 
                 return Lol; 
                 
             }
