@@ -85,7 +85,7 @@ class Program
             }
 
             static public string StringMethod (){ 
-                string Lol = "Good morning, afternoon, evening and night"; 
+                string Lol = "Good morning, afternoon, evening and night,"; 
                 return Lol; 
                 
             }
