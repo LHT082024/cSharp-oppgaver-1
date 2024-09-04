@@ -18,7 +18,7 @@ class Program
 
         //lager en variabel med datatypen string (tekst basert variabel) 
         //og gir den navnet myFirstString og gir den verdien "eg e født i bergen"
-        string myFirstString = "eg e født i bergen";
+        string myFirstString = "Colours you have never seen before";
         Console.WriteLine(myFirstString);
 
         //lager en variabel med datatypen double (hele og desimaltall) 
