@@ -7,6 +7,9 @@ class Program
     static void Main(string[] args)
     {
 
+
+              //OPPGAVE 2
+
         //lager en variabel med datatypen int (en variabel som bare kan lagre hele nummere)
          //og gir den navnent myFirstNumber og gir den verdien 1
         int myFirstNumber = 1; 
@@ -60,12 +63,32 @@ class Program
             //skriver ut string elemente lagt til i list.
             Console.WriteLine(names);
         }
+           Dictionary<int, string> myDictonary = new Dictionary<int, string>();
+                myDictonary.Add(1, "Azathoth"); 
+                myDictonary.Add(2, "Nyarlathotep");
+                myDictonary.Add(3, "Yog-Sothoth");
+                myDictonary.Add(4, "Shub-Niggurath");
 
+                foreach(var elderGods in myDictonary)
+                Console.WriteLine($"Key: {elderGods.Key}, Value: {elderGods.Value}"); 
 
-
+                Console.WriteLine(IntMethode(5, 7));
+   
     }
 
 
+            //oppgave 3 
+
+            static public int IntMethode(int a, int b){
+                return a + b;
+            }
+
+            
 
 
-}
+ }
+
+
+
+
+
