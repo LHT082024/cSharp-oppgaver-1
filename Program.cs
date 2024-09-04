@@ -55,9 +55,9 @@ class Program
         //list sin innebygde metode .Add hvor eg har
         //added forskjellige strings til listen
         List<string> stringlist = new List<string>();
-        stringlist.Add("ein");
-        stringlist.Add("sweidan");
-        stringlist.Add("Aegon");
+        stringlist.Add("the namless city");
+        stringlist.Add("the music of Eric Zhan");
+        stringlist.Add("the dream-quest of unkown kadath");
         //brukt foreach til å hente strings fra stringlist
         foreach(string names in stringlist){
             //skriver ut string elemente lagt til i list.
