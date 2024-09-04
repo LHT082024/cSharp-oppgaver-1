@@ -73,6 +73,7 @@ class Program
                 Console.WriteLine($"Key: {elderGods.Key}, Value: {elderGods.Value}"); 
 
                 Console.WriteLine(IntMethode(5, 7));
+                Console.WriteLine(StringMethod()); 
    
     }
 
@@ -83,7 +84,11 @@ class Program
                 return a + b;
             }
 
-            
+            static public string StringMethod (){ 
+                string Lol = "hello"; 
+                return Lol; 
+                
+            }
 
 
  }
